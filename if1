@@ -1,0 +1,9 @@
+# if ile karar verme
+sayi1 = int( input("1.Sayıyı giriniz:") )
+sayi2 = int( input("2.Sayıyı giriniz:") )
+islem = input("İşleminiz nedir (+,-,*,/)?")
+
+if islem == "+": # islem değişkenin + ifadesine eşit olması durumunda aşağıdaki kodları çalıştır.
+  toplam = sayi1+sayi2
+  print(f"{sayi1} + {sayi2} = {toplam}")
+
