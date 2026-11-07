@@ -1,0 +1,8 @@
+# tırnak kullanımı
+print("Merhaba") # CTRL + d aynı kelimeleri seçer
+print('Merhaba')
+print('''Merhaba''')
+print("""Merhaba""")
+# print('Eren'in annesi "gel" dedi') # hata verir
+print('Eren\'in annesi "gel" dedi')
+print('''Eren'in annesi "gel" dedi''')
