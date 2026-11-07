@@ -1,0 +1,3 @@
+a=8
+c=13
+print(c,"birlikte",a,"çıkartma sonucu:",c-a, )
