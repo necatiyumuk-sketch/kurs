@@ -1,0 +1,16 @@
+# Aritmatik operatorler / Matematiksel operatorler
+print(5+9) # + operator, 5 ile 9 operand
+print(5*9)
+print(20/3)
+print(20//3) # virgülsüz bölme
+print(2**3) # üst alma
+print(10**3) # üst alma
+print(10%3) # mod u
+print(20%3) # mod u
+
+# String operatorleri
+print("5"+"9") # + operatoru ile birleştirme
+print("Vektorel"+"Bilisim") # + operatoru ile birleştirme
+print("Vektorel "*4) # * tekrar
+
+# Mantıksal operatorler.
