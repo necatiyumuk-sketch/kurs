@@ -1,0 +1,7 @@
+a = 3
+b = 4
+print('Eren\'in an\nesi "gel" de\ndi')
+print("a\tdeğeri\t:\t",a)
+print("b\tdeğeri\t:\t",b)
+print(a,"ile",b,"toplamı:",a+b)
+print(f"{a} ile {b} toplamı: {a+b}")
