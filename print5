@@ -1,0 +1,6 @@
+# print() fonksiyonu değişken/variable, string/metin, sayı/numerik, mantıksal/logic parametreleri yazdırır.
+# CRTL + Ö bilgi satırı yapar veya geri alır.
+a = 3 # a değişken/variable dır.
+b = 4
+print(a,"ile",b,"toplamı:",a+b,a<b) # fonksiyon içine yazılan şeylere parametre diyoruz.
+print(a<b)
