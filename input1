@@ -1,0 +1,8 @@
+# Klavyeden girilen iki sayıyı toplayan program.
+# Kullanıcıdan klavye ile bilgi almak için input fonksiyonu kullanılır.
+# input aldığı bilgiyi string olarak alır.
+# int() fonksiyonu tam sayıya (integer) çevirir
+sayi1 = int( input("1.Sayıyı giriniz:") )
+sayi2 = int( input("2.Sayıyı giriniz:") )
+toplam = sayi1+sayi2
+print(f"{sayi1} + {sayi2} = {toplam}")
