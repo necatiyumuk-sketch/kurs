@@ -1,0 +1,6 @@
+# input fonksiyonu sadece bir string parametre alır.
+# input fonksiyonunda sadece bir string parametre kullanılabilir.
+ad = input("Adınız nedir?")
+print(f"Adın güzelmiş {ad}.")
+dy = int( input(f"Hangi yılda doğdun {ad}?") )
+print(f"Demek {2026-dy} yaşındasın {ad}.")
