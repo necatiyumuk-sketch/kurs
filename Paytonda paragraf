@@ -1,0 +1,10 @@
+"""
+Pythonda paragraf açıklama
+Python'da üç tek veya üç çift tırnak arasına
+paragraf şeklindeki açıklamaları yazabiliriz.
+"""
+print("Selam",end="")
+print("Nasılsın",end="")
+print("Merhaba")
+
+print("Ankara","İstanbul","İzmir")
